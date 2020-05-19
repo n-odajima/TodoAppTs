@@ -1,3 +1,9 @@
+# TodoAppTs
+
+## 参考にしたページ
+
+[React.js + TypeScript で Todo アプリを作ってみる](https://www.webopixel.net/javascript/1598.html)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
